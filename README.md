@@ -1,0 +1,2 @@
+# technologystoreProject
+Specialized Project
